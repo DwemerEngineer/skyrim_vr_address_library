@@ -1,3 +1,569 @@
+# [0.279.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.278.0...v0.279.0) (2026-10-14)
+
+
+### Features
+
+* add occlusion visibility rows ([#262](https://github.com/alandtse/skyrim_vr_address_library/issues/262)) ([a364e0d](https://github.com/alandtse/skyrim_vr_address_library/commit/a364e0dca36e4483a5c068152fcedf48085f9b13))
+* add TES LOD blend AE id mappings ([#264](https://github.com/alandtse/skyrim_vr_address_library/issues/264)) ([ab34124](https://github.com/alandtse/skyrim_vr_address_library/commit/ab341247d59b06712a7d8b93661f1f016cf76cb3))
+
+# [0.278.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.277.0...v0.278.0) (2026-10-13)
+
+
+### Features
+
+* add job list and low actor rows ([#259](https://github.com/alandtse/skyrim_vr_address_library/issues/259)) ([51751fd](https://github.com/alandtse/skyrim_vr_address_library/commit/51751fd6ad16adea8e8c29ac765611219902fb99))
+* add TES LOD blend rows ([#261](https://github.com/alandtse/skyrim_vr_address_library/issues/261)) ([ebdc36f](https://github.com/alandtse/skyrim_vr_address_library/commit/ebdc36fa3c221bebdc420b2ddd1671d887610744))
+
+# [0.277.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.276.1...v0.277.0) (2026-10-11)
+
+
+### Features
+
+* add ExtraDataList constructor ([#251](https://github.com/alandtse/skyrim_vr_address_library/issues/251)) ([ee105a0](https://github.com/alandtse/skyrim_vr_address_library/commit/ee105a03e2724d44a174a6b63e5645739ebe5ed3))
+* add ExtraDataList destructor rows ([#254](https://github.com/alandtse/skyrim_vr_address_library/issues/254)) ([97f701f](https://github.com/alandtse/skyrim_vr_address_library/commit/97f701fd486969496ad07369979a2b66b3763cc5))
+* add light-list fence and attach ids ([#257](https://github.com/alandtse/skyrim_vr_address_library/issues/257)) ([babe8e6](https://github.com/alandtse/skyrim_vr_address_library/commit/babe8e678eab46686ae8622bfb74503f9166d598))
+* add LOD shape and skin partition rows ([#256](https://github.com/alandtse/skyrim_vr_address_library/issues/256)) ([7abd704](https://github.com/alandtse/skyrim_vr_address_library/commit/7abd704c16be3fb37a0824038c1347fd49fb4679))
+* add NiBoneMatrixSetterI::SetBoneMatrices ([#255](https://github.com/alandtse/skyrim_vr_address_library/issues/255)) ([d9dea38](https://github.com/alandtse/skyrim_vr_address_library/commit/d9dea38188b0e59dc58c40bd0bb132e4f31fb375))
+* add Scaleform GFx and AS rows ([#250](https://github.com/alandtse/skyrim_vr_address_library/issues/250)) ([3637819](https://github.com/alandtse/skyrim_vr_address_library/commit/3637819ed0afd97c7c27f5a0de9d1153f17be775))
+* add Scaleform SE-AE id rows ([#252](https://github.com/alandtse/skyrim_vr_address_library/issues/252)) ([09b2e46](https://github.com/alandtse/skyrim_vr_address_library/commit/09b2e46bfb36ad793035f1498df440f048280d83))
+* add Scaleform vtable and dtor rows ([#253](https://github.com/alandtse/skyrim_vr_address_library/issues/253)) ([ca6a86e](https://github.com/alandtse/skyrim_vr_address_library/commit/ca6a86e0a26fe453226b86c4934786fc6671821c))
+
+## [0.276.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.276.0...v0.276.1) (2026-10-04)
+
+
+### Bug Fixes
+
+* correct Inventory3D and BSDismemberSkinInstance rows ([#247](https://github.com/alandtse/skyrim_vr_address_library/issues/247)) ([78ac104](https://github.com/alandtse/skyrim_vr_address_library/commit/78ac1041e02f2096da988a7f0d372ab47959deb7))
+
+# [0.276.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.275.0...v0.276.0) (2026-10-04)
+
+
+### Features
+
+* add culling and frustum rows ([#246](https://github.com/alandtse/skyrim_vr_address_library/issues/246)) ([00c0654](https://github.com/alandtse/skyrim_vr_address_library/commit/00c0654d5b818baee2eef02577e0afeff4de9e04))
+
+# [0.275.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.274.0...v0.275.0) (2026-09-30)
+
+
+### Features
+
+* add quest global and SkipText rows ([#245](https://github.com/alandtse/skyrim_vr_address_library/issues/245)) ([dd68909](https://github.com/alandtse/skyrim_vr_address_library/commit/dd68909a80a325ea5535592fea9e3626009a681d))
+
+# [0.274.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.273.0...v0.274.0) (2026-09-30)
+
+
+### Features
+
+* add culling dispatch and accumulator rows ([#243](https://github.com/alandtse/skyrim_vr_address_library/issues/243)) ([200b677](https://github.com/alandtse/skyrim_vr_address_library/commit/200b677428a5f7df019b0e4ce96762f2e92075f5))
+
+# [0.273.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.272.0...v0.273.0) (2026-09-29)
+
+
+### Features
+
+* add terrain, render and inventory functions ([#242](https://github.com/alandtse/skyrim_vr_address_library/issues/242)) ([a202397](https://github.com/alandtse/skyrim_vr_address_library/commit/a2023973a71d409e6284ea0b6a914c79b79c65d2))
+
+# [0.272.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.271.1...v0.272.0) (2026-09-28)
+
+
+### Features
+
+* add BSDismemberSkinInstance Ctor and Create ([#234](https://github.com/alandtse/skyrim_vr_address_library/issues/234)) ([2fcf130](https://github.com/alandtse/skyrim_vr_address_library/commit/2fcf130a0abb28999898ba08f81e9027fb249c99))
+
+## [0.271.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.271.0...v0.271.1) (2026-09-27)
+
+
+### Bug Fixes
+
+* add NiAVObject::LookupBoneNodeByName ([#233](https://github.com/alandtse/skyrim_vr_address_library/issues/233)) ([37b77f3](https://github.com/alandtse/skyrim_vr_address_library/commit/37b77f3f00ae0d7474845a3acb6fb957b2212c71))
+
+# [0.271.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.270.0...v0.271.0) (2026-09-25)
+
+
+### Features
+
+* add NiObject deferred-release queue ([#229](https://github.com/alandtse/skyrim_vr_address_library/issues/229)) ([c0a5937](https://github.com/alandtse/skyrim_vr_address_library/commit/c0a593780d59ea10b46db7ce37b4a9a49f1911ad))
+
+# [0.270.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.269.0...v0.270.0) (2026-09-24)
+
+
+### Features
+
+* add RaceMenu VR ([#224](https://github.com/alandtse/skyrim_vr_address_library/issues/224)) ([918aa62](https://github.com/alandtse/skyrim_vr_address_library/commit/918aa62ec4f3ca6839ea1df034ad2e1753f415cf))
+
+# [0.269.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.268.0...v0.269.0) (2026-09-24)
+
+
+### Features
+
+* add BSLight deleting destructor ([#225](https://github.com/alandtse/skyrim_vr_address_library/issues/225)) ([df6c507](https://github.com/alandtse/skyrim_vr_address_library/commit/df6c5077973c1acb6be6a50eff1919ad208818d2))
+* add Sky::ResetModelHandle ([#226](https://github.com/alandtse/skyrim_vr_address_library/issues/226)) ([cf7bcec](https://github.com/alandtse/skyrim_vr_address_library/commit/cf7bcec3cc559d1fc3efefeac3a02887845a57ab))
+
+# [0.268.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.267.0...v0.268.0) (2026-09-20)
+
+
+### Features
+
+* add culling, alpha group and shadow ids ([#221](https://github.com/alandtse/skyrim_vr_address_library/issues/221)) ([67d9ef4](https://github.com/alandtse/skyrim_vr_address_library/commit/67d9ef46267fb99e9561cdcfe2282dfb3f4ee36c))
+
+# [0.267.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.266.0...v0.267.0) (2026-09-18)
+
+
+### Features
+
+* add RE::FlameProjectile::UpdateImpl ([#220](https://github.com/alandtse/skyrim_vr_address_library/issues/220)) ([b2f87a5](https://github.com/alandtse/skyrim_vr_address_library/commit/b2f87a563a86d2b7f0445885bd738786b2a9c927))
+
+# [0.266.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.265.0...v0.266.0) (2026-09-16)
+
+
+### Features
+
+* add Actor::GetCombatGroup/SetCombatGroup ([#219](https://github.com/alandtse/skyrim_vr_address_library/issues/219)) ([d5acb42](https://github.com/alandtse/skyrim_vr_address_library/commit/d5acb423cc07b36007bc25e1f5b1a5badcbd8812))
+
+# [0.265.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.264.0...v0.265.0) (2026-09-13)
+
+
+### Features
+
+* add BSUtilityShader::SetupGeometry ([#215](https://github.com/alandtse/skyrim_vr_address_library/issues/215)) ([75da981](https://github.com/alandtse/skyrim_vr_address_library/commit/75da9817e8bd616d67181e033d469291ee551142))
+
+# [0.264.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.263.0...v0.264.0) (2026-09-09)
+
+
+### Features
+
+* register grass addresses ([#213](https://github.com/alandtse/skyrim_vr_address_library/issues/213)) ([e9ea202](https://github.com/alandtse/skyrim_vr_address_library/commit/e9ea2024512e5d1eb47cf00ea704395dc000b9c2))
+
+# [0.263.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.262.1...v0.263.0) (2026-09-08)
+
+
+### Features
+
+* register grass optimizations ([#209](https://github.com/alandtse/skyrim_vr_address_library/issues/209)) ([a3b2a37](https://github.com/alandtse/skyrim_vr_address_library/commit/a3b2a3709a136643155e9a93074b23d6ea6a4469))
+
+## [0.262.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.262.0...v0.262.1) (2026-09-08)
+
+
+### Bug Fixes
+
+* verify cubemap/rendertarget VR addresses ([#211](https://github.com/alandtse/skyrim_vr_address_library/issues/211)) ([772e3e3](https://github.com/alandtse/skyrim_vr_address_library/commit/772e3e3c6bb24f2075830111167fb077060c2987))
+
+# [0.262.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.261.0...v0.262.0) (2026-09-08)
+
+
+### Features
+
+* register VR addresses for po3 sync's new RE (BSCubeMapCamera, RenderTargetManager) ([#210](https://github.com/alandtse/skyrim_vr_address_library/issues/210)) ([ea0eb93](https://github.com/alandtse/skyrim_vr_address_library/commit/ea0eb936328860e4a670f4472fef27b4a22cf2a8))
+
+# [0.261.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.260.0...v0.261.0) (2026-09-07)
+
+
+### Features
+
+* add BGSWaterCollisionManager addresses ([#207](https://github.com/alandtse/skyrim_vr_address_library/issues/207)) ([5876e6f](https://github.com/alandtse/skyrim_vr_address_library/commit/5876e6f8f6b8a49f5dddbbfcf2751deb74008eef))
+
+# [0.260.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.259.0...v0.260.0) (2026-09-06)
+
+
+### Bug Fixes
+
+* **ci:** re-enable and extend CSV autofix to sort by id ([#205](https://github.com/alandtse/skyrim_vr_address_library/issues/205)) ([b930509](https://github.com/alandtse/skyrim_vr_address_library/commit/b930509527e1ee7e2ff860254f1ab3662d794696))
+
+
+### Features
+
+* add BGSDecalManager::ApplyDecal ([#202](https://github.com/alandtse/skyrim_vr_address_library/issues/202)) ([4491eb8](https://github.com/alandtse/skyrim_vr_address_library/commit/4491eb88ff50985c00392df0b4d23e5a720f7b7b))
+* add GetNextPassSlotInGroup ([#203](https://github.com/alandtse/skyrim_vr_address_library/issues/203)) ([575d5b9](https://github.com/alandtse/skyrim_vr_address_library/commit/575d5b9fe90a07d6bb5ef67ffa74ed8b999a3857))
+
+# [0.259.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.258.0...v0.259.0) (2026-09-03)
+
+
+### Features
+
+* add StartWaiting/StartSleeping ([#201](https://github.com/alandtse/skyrim_vr_address_library/issues/201)) ([765f21c](https://github.com/alandtse/skyrim_vr_address_library/commit/765f21c598d5f213c5904c4a06b0a7481bf62ecc))
+
+# [0.258.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.257.0...v0.258.0) (2026-09-02)
+
+
+### Features
+
+* add actor-value-generator ([#200](https://github.com/alandtse/skyrim_vr_address_library/issues/200)) ([d17bdb7](https://github.com/alandtse/skyrim_vr_address_library/commit/d17bdb781195f2bdf2c3a15db3a4f79b09e9baec))
+
+# [0.257.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.256.0...v0.257.0) (2026-09-01)
+
+
+### Features
+
+* add FullScreenBlur ([#199](https://github.com/alandtse/skyrim_vr_address_library/issues/199)) ([5133597](https://github.com/alandtse/skyrim_vr_address_library/commit/5133597823881bcbbb98a1c319f5bf4ed5b16a0d))
+
+# [0.256.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.255.0...v0.256.0) (2026-09-01)
+
+
+### Features
+
+* add ImageSpaceEffect::Render VR address ([#198](https://github.com/alandtse/skyrim_vr_address_library/issues/198)) ([e0ac12d](https://github.com/alandtse/skyrim_vr_address_library/commit/e0ac12dd28837270324f573767a878bd92ff8bc5))
+
+# [0.255.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.254.0...v0.255.0) (2026-09-01)
+
+
+### Features
+
+* register GC array/object cleanup ([#197](https://github.com/alandtse/skyrim_vr_address_library/issues/197)) ([ca73db8](https://github.com/alandtse/skyrim_vr_address_library/commit/ca73db8620099556e2ddc371de9a6b40267bc435))
+
+# [0.254.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.253.0...v0.254.0) (2026-08-31)
+
+
+### Features
+
+* add noahboddie mod ids ([#195](https://github.com/alandtse/skyrim_vr_address_library/issues/195)) ([ce29b5a](https://github.com/alandtse/skyrim_vr_address_library/commit/ce29b5a0004d4a59684ede3dff9226d8a3c37810))
+
+# [0.253.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.252.0...v0.253.0) (2026-08-21)
+
+
+### Features
+
+* add hkpContinuousSimulation crash-site id ([#193](https://github.com/alandtse/skyrim_vr_address_library/issues/193)) ([090c25a](https://github.com/alandtse/skyrim_vr_address_library/commit/090c25ae98390df52f7cb859af976710c2ff9e12))
+
+# [0.252.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.251.0...v0.252.0) (2026-08-16)
+
+
+### Features
+
+* register ActorValueStorage lock/reset VR ids ([#192](https://github.com/alandtse/skyrim_vr_address_library/issues/192)) ([bde801f](https://github.com/alandtse/skyrim_vr_address_library/commit/bde801fc348cf0d569cff13a7e642eb39b7e170f))
+
+# [0.251.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.250.0...v0.251.0) (2026-08-13)
+
+
+### Bug Fixes
+
+* correct BShkbAnimationGraph SetGraphVariable* ids ([#190](https://github.com/alandtse/skyrim_vr_address_library/issues/190)) ([ae35116](https://github.com/alandtse/skyrim_vr_address_library/commit/ae3511672f3dca3c294ba982180ec1979b91806c))
+
+
+### Features
+
+* register SmoothTerrain collision VR ids ([#191](https://github.com/alandtse/skyrim_vr_address_library/issues/191)) ([19905ff](https://github.com/alandtse/skyrim_vr_address_library/commit/19905ff92c7e389aa9142403e2cb72b242c61a69)), closes [#6](https://github.com/alandtse/skyrim_vr_address_library/issues/6)
+
+# [0.250.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.249.0...v0.250.0) (2026-08-06)
+
+
+### Features
+
+* add SetBackHemisphereAccumulator VR ID ([#189](https://github.com/alandtse/skyrim_vr_address_library/issues/189)) ([553313d](https://github.com/alandtse/skyrim_vr_address_library/commit/553313ddddd6a08ecea7e470b7c4d1f738426bf6))
+
+# [0.249.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.248.0...v0.249.0) (2026-08-06)
+
+
+### Features
+
+* add hkbVariableBindingSetUtils ([#188](https://github.com/alandtse/skyrim_vr_address_library/issues/188)) ([4abceb6](https://github.com/alandtse/skyrim_vr_address_library/commit/4abceb6c6208788f55c795fc32f7104425dec2ac))
+
+# [0.248.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.247.0...v0.248.0) (2026-08-04)
+
+
+### Features
+
+* register hkb Havok Behavior ([#187](https://github.com/alandtse/skyrim_vr_address_library/issues/187)) ([1bcb5f0](https://github.com/alandtse/skyrim_vr_address_library/commit/1bcb5f0c7fcde7f684b9a0a17ae63ca311848bf1))
+
+# [0.247.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.246.0...v0.247.0) (2026-08-01)
+
+
+### Features
+
+* addSmoothTerrain ([#183](https://github.com/alandtse/skyrim_vr_address_library/issues/183)) ([c0b8c42](https://github.com/alandtse/skyrim_vr_address_library/commit/c0b8c427b76789de7a75f2fb44c256c96803ccb8))
+
+# [0.246.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.245.0...v0.246.0) (2026-07-31)
+
+
+### Bug Fixes
+
+* drop RE:: prefix, correct param name (ids 68203/68207) ([#182](https://github.com/alandtse/skyrim_vr_address_library/issues/182)) ([4ec757c](https://github.com/alandtse/skyrim_vr_address_library/commit/4ec757c8fcb294713855cac97d601a23407a6157))
+
+
+### Features
+
+* register BSBatchRenderer alpha group ids ([#178](https://github.com/alandtse/skyrim_vr_address_library/issues/178)) ([e406547](https://github.com/alandtse/skyrim_vr_address_library/commit/e4065472ef24b1096a7014bf44816bc79d8fb64f))
+* register BSProceduralGeomEvent address ids ([#181](https://github.com/alandtse/skyrim_vr_address_library/issues/181)) ([1d946bf](https://github.com/alandtse/skyrim_vr_address_library/commit/1d946bfe10dcb10db38672cdcdfec13f025947d8))
+* register QueuedFile GetTotalChildrenCount id ([#180](https://github.com/alandtse/skyrim_vr_address_library/issues/180)) ([0bc1f61](https://github.com/alandtse/skyrim_vr_address_library/commit/0bc1f61ddc17d3a0710aa258c7d0402201cf0aa1))
+
+# [0.245.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.244.0...v0.245.0) (2026-07-31)
+
+
+### Features
+
+* register GFx/IO/ActorValueStorage RE address ids ([#177](https://github.com/alandtse/skyrim_vr_address_library/issues/177)) ([253d497](https://github.com/alandtse/skyrim_vr_address_library/commit/253d49742c252a453c8613f6681b1da85e52cef2))
+
+# [0.244.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.243.0...v0.244.0) (2026-07-30)
+
+
+### Features
+
+* add SynchronizedMap/BSTaskManager ids ([2b32301](https://github.com/alandtse/skyrim_vr_address_library/commit/2b32301b9d40462ef3f129f49dc50ff9be6a7e34))
+
+# [0.243.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.242.0...v0.243.0) (2026-07-30)
+
+
+### Bug Fixes
+
+* correct mislabeled TES id, add FinishLoad ([d4c4962](https://github.com/alandtse/skyrim_vr_address_library/commit/d4c49623ae7a0ab8a48e812230ee2ed36da9ee59))
+
+
+### Features
+
+* add BSTaskletManager ids ([5dabd5b](https://github.com/alandtse/skyrim_vr_address_library/commit/5dabd5bfcae68d84278f973b864f3579fae96f75))
+* add LoadedAreaBound method ids ([b21120b](https://github.com/alandtse/skyrim_vr_address_library/commit/b21120bc96eec1258b5ed84b7419e860084d1bff))
+* add QuickLoot IE ([14391eb](https://github.com/alandtse/skyrim_vr_address_library/commit/14391ebbc534d29cd3a1bb56097848a4767e8e5c))
+* register BGSAcousticSpace::Deactivate id ([eec5565](https://github.com/alandtse/skyrim_vr_address_library/commit/eec55653c957e6cc0d43a9b0c7343fdc07fc778c))
+* register IOManager singleton and core methods ([fe92b5b](https://github.com/alandtse/skyrim_vr_address_library/commit/fe92b5b4447b5d1a3cbdcf728b4c39969b82a6ca))
+
+# [0.242.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.241.0...v0.242.0) (2026-07-24)
+
+
+### Features
+
+* add BGSCreatedObjectManager/PlayerRegionState ([efb0fc7](https://github.com/alandtse/skyrim_vr_address_library/commit/efb0fc73a33f51b51030c9f7612640c7e448b069))
+
+# [0.241.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.240.0...v0.241.0) (2026-07-20)
+
+
+### Features
+
+* add missing EngineFixes address library ids ([7a3d267](https://github.com/alandtse/skyrim_vr_address_library/commit/7a3d267d9c33bb532bf5891af12cf660a8b4eebd))
+
+# [0.240.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.239.0...v0.240.0) (2026-07-20)
+
+
+### Features
+
+* add ControlMap/Rumble/ButtonEvent ([#145](https://github.com/alandtse/skyrim_vr_address_library/issues/145)) ([b595b8d](https://github.com/alandtse/skyrim_vr_address_library/commit/b595b8d06846fd42b7deab9d4e1dc1924a1e446d))
+* add MenuControls RegisterHandler/UnregisterHandler ([#147](https://github.com/alandtse/skyrim_vr_address_library/issues/147)) ([baef886](https://github.com/alandtse/skyrim_vr_address_library/commit/baef8864208fc5262cb62590c73a1194cf387775))
+* add PlayerControls RegisterHandler/UnregisterHandler ([#146](https://github.com/alandtse/skyrim_vr_address_library/issues/146)) ([758b9c4](https://github.com/alandtse/skyrim_vr_address_library/commit/758b9c47592ea5afd1c7a521508e620bbbfe17f4))
+
+# [0.239.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.238.0...v0.239.0) (2026-07-18)
+
+
+### Features
+
+* add UIManager::AllowTextInput1 ([3aad25a](https://github.com/alandtse/skyrim_vr_address_library/commit/3aad25a67dc73ef7920d7cebad5927b6a3c01a56))
+
+# [0.238.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.237.0...v0.238.0) (2026-07-18)
+
+
+### Features
+
+* add BSShadowLight ctor and IsInRange ([#144](https://github.com/alandtse/skyrim_vr_address_library/issues/144)) ([04d56ce](https://github.com/alandtse/skyrim_vr_address_library/commit/04d56ce8c8f05db125ae8e23ddd0cd0dbb14e595))
+
+# [0.237.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.236.0...v0.237.0) (2026-07-15)
+
+
+### Features
+
+* add NiCamera::CopyMembers ([#143](https://github.com/alandtse/skyrim_vr_address_library/issues/143)) ([0cdae0d](https://github.com/alandtse/skyrim_vr_address_library/commit/0cdae0d6fcf610679119ac5467ea75b2091ccc88))
+
+# [0.236.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.235.0...v0.236.0) (2026-07-13)
+
+
+### Features
+
+* add AddPotion/AddPoison ([#142](https://github.com/alandtse/skyrim_vr_address_library/issues/142)) ([6ca423e](https://github.com/alandtse/skyrim_vr_address_library/commit/6ca423e75e02c54c2e22062feaf499b2710e9d9f))
+* add BSBatchRenderer helper ([#141](https://github.com/alandtse/skyrim_vr_address_library/issues/141)) ([f1134bc](https://github.com/alandtse/skyrim_vr_address_library/commit/f1134bcaefb69ac4654094424832a5618772c2cb))
+
+# [0.235.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.234.0...v0.235.0) (2026-07-06)
+
+
+### Features
+
+* add console SaveGame command handler ([#139](https://github.com/alandtse/skyrim_vr_address_library/issues/139)) ([d7ab3b2](https://github.com/alandtse/skyrim_vr_address_library/commit/d7ab3b2553daeff4a061dfdcc86df7fcdc074e5f))
+
+# [0.234.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.233.0...v0.234.0) (2026-07-06)
+
+
+### Features
+
+* add bhkCharacterController::TryMoveTo and GetSupportMass ids ([#137](https://github.com/alandtse/skyrim_vr_address_library/issues/137)) ([f3d9e0e](https://github.com/alandtse/skyrim_vr_address_library/commit/f3d9e0e5546feec9e0cac7676b5715cb1590f970))
+* add BSTimer::Update address id ([#133](https://github.com/alandtse/skyrim_vr_address_library/issues/133)) ([642977e](https://github.com/alandtse/skyrim_vr_address_library/commit/642977e06c54fb2b3bfd6d50f9b82f24686737cb)), closes [#203](https://github.com/alandtse/skyrim_vr_address_library/issues/203)
+* add generic-subsystem address ids found via VATS RE ([#132](https://github.com/alandtse/skyrim_vr_address_library/issues/132)) ([9c8005b](https://github.com/alandtse/skyrim_vr_address_library/commit/9c8005b775b0f43daf7cfb8d14a51a1bce160d8a))
+* add SkyrimVM::Freeze address id ([#134](https://github.com/alandtse/skyrim_vr_address_library/issues/134)) ([a2370a7](https://github.com/alandtse/skyrim_vr_address_library/commit/a2370a7d2c66e3bc0de547ed7229b3a1bd44c473))
+* add TESObjectREFR::GetRotationMatrix address id ([#136](https://github.com/alandtse/skyrim_vr_address_library/issues/136)) ([6ecd996](https://github.com/alandtse/skyrim_vr_address_library/commit/6ecd996bdf1ac290bc0d692ac50a50c4fba41964))
+* add three more BGSCameraShot method ids ([#135](https://github.com/alandtse/skyrim_vr_address_library/issues/135)) ([928d98e](https://github.com/alandtse/skyrim_vr_address_library/commit/928d98e8e75953482658a132c98c27beb390c0b3)), closes [#132](https://github.com/alandtse/skyrim_vr_address_library/issues/132)
+* add VariadicCollisionDynamics ([#138](https://github.com/alandtse/skyrim_vr_address_library/issues/138)) ([cc3feee](https://github.com/alandtse/skyrim_vr_address_library/commit/cc3feee1338d0bccbc24815a1228158e1825edba))
+* add VATS internal-method address ids 43087-43098 ([#131](https://github.com/alandtse/skyrim_vr_address_library/issues/131)) ([7923154](https://github.com/alandtse/skyrim_vr_address_library/commit/79231544fe2f55d7eb13967676aab86139e0da0c)), closes [#203](https://github.com/alandtse/skyrim_vr_address_library/issues/203)
+
+# [0.233.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.232.0...v0.233.0) (2026-06-29)
+
+
+### Features
+
+* add StartTimer/StopTimer ([#130](https://github.com/alandtse/skyrim_vr_address_library/issues/130)) ([47f85e1](https://github.com/alandtse/skyrim_vr_address_library/commit/47f85e15228438a1121e3b9e34569d717e7327ea))
+
+# [0.232.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.231.0...v0.232.0) (2026-06-27)
+
+
+### Features
+
+* add camera collision, Havok utilities, and actor base ([#128](https://github.com/alandtse/skyrim_vr_address_library/issues/128)) ([8584963](https://github.com/alandtse/skyrim_vr_address_library/commit/858496394ced6f1503d47dc5a2c8e0dbdacfce84))
+
+# [0.231.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.230.0...v0.231.0) (2026-06-27)
+
+
+### Features
+
+* add A-Pose Bug Fix ([#127](https://github.com/alandtse/skyrim_vr_address_library/issues/127)) ([4bee7e8](https://github.com/alandtse/skyrim_vr_address_library/commit/4bee7e81f794ffb7efee72c7d7124449d7277873))
+
+# [0.230.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.229.0...v0.230.0) (2026-06-24)
+
+
+### Features
+
+* add SKSE Menu Framework ([891e40e](https://github.com/alandtse/skyrim_vr_address_library/commit/891e40e4193fcf87f5a4783179c4eb1d80cc50bf))
+
+# [0.229.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.228.0...v0.229.0) (2026-06-23)
+
+
+### Features
+
+* add LipSynchAnimDB and BSVolumetricLightingRenderData ([#125](https://github.com/alandtse/skyrim_vr_address_library/issues/125)) ([2db0ded](https://github.com/alandtse/skyrim_vr_address_library/commit/2db0ded30ea1105b1051710877c5e1dd231ad984))
+
+# [0.228.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.227.0...v0.228.0) (2026-06-20)
+
+
+### Features
+
+* add latest OS code ([5b31a95](https://github.com/alandtse/skyrim_vr_address_library/commit/5b31a95d8445b4325a0fd14143e2f2fc1057a5aa))
+
+# [0.227.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.226.0...v0.227.0) (2026-06-17)
+
+
+### Features
+
+* add ShadowSceneNode ResetScene + ClearSceneAndFog ([#124](https://github.com/alandtse/skyrim_vr_address_library/issues/124)) ([a5a6341](https://github.com/alandtse/skyrim_vr_address_library/commit/a5a6341856ce86d8f48c6a2a2fad74bf7ea185c5))
+
+# [0.226.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.225.0...v0.226.0) (2026-06-16)
+
+
+### Features
+
+* add ShadowSceneNode funcs ([0891983](https://github.com/alandtse/skyrim_vr_address_library/commit/08919831c78d8d554e37e9969a8304ca7ea0915d))
+
+# [0.225.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.224.0...v0.225.0) (2026-06-14)
+
+
+### Features
+
+* add shadow-distance + light-LOD fade ([171b184](https://github.com/alandtse/skyrim_vr_address_library/commit/171b184e4daf9ba17799a0a0b0b8c47af72ba492))
+
+# [0.224.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.223.0...v0.224.0) (2026-06-12)
+
+
+### Features
+
+* add 8 VR ids from po3 catch-up merge ([156b2fc](https://github.com/alandtse/skyrim_vr_address_library/commit/156b2fce019eb5f50d59da9653b34ad0aefdf6b2)), closes [#183](https://github.com/alandtse/skyrim_vr_address_library/issues/183)
+
+# [0.223.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.222.0...v0.223.0) (2026-06-09)
+
+
+### Features
+
+* add Sky::UpdateColors ([c21464d](https://github.com/alandtse/skyrim_vr_address_library/commit/c21464d0a3ad3fd6b505c9865dc8a9677a63558b))
+
+# [0.222.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.221.0...v0.222.0) (2026-06-07)
+
+
+### Features
+
+* add global-data load ([c143150](https://github.com/alandtse/skyrim_vr_address_library/commit/c143150755405ee7fd3c865047729f5d9ae6ebbd))
+
+# [0.221.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.220.0...v0.221.0) (2026-06-06)
+
+
+### Features
+
+* add save-load + asset-stream ([e648ea5](https://github.com/alandtse/skyrim_vr_address_library/commit/e648ea538d8804b2beb91bc9b35f932282b681f3))
+
+# [0.220.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.219.0...v0.220.0) (2026-06-04)
+
+
+### Features
+
+* add Sky::UpdateClouds ([23fa22d](https://github.com/alandtse/skyrim_vr_address_library/commit/23fa22d28640c4fb3258408eabe62773efe97c7c))
+
+# [0.219.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.218.1...v0.219.0) (2026-06-04)
+
+
+### Features
+
+* add GetGameSetting ([0591cf8](https://github.com/alandtse/skyrim_vr_address_library/commit/0591cf8882f4acc80b9fff01a4b5eaaf87d8f4fa))
+
+## [0.218.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.218.0...v0.218.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* swap to second id for GetHandleValidatedSmartPointer ([#122](https://github.com/alandtse/skyrim_vr_address_library/issues/122)) ([e241450](https://github.com/alandtse/skyrim_vr_address_library/commit/e2414505f1dbe01353e8f1a6d33dfeb6f3528e54))
+
+# [0.218.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.217.0...v0.218.0) (2026-05-31)
+
+
+### Features
+
+* add MessageBoxMenu button-press + queue-removal ids ([#121](https://github.com/alandtse/skyrim_vr_address_library/issues/121)) ([7706119](https://github.com/alandtse/skyrim_vr_address_library/commit/770611988d911c487ada6807f9ef9bd09e0b3f64))
+
+# [0.217.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.216.0...v0.217.0) (2026-05-28)
+
+
+### Features
+
+* add CS LOD water + luminance VR ids ([ed3a7b1](https://github.com/alandtse/skyrim_vr_address_library/commit/ed3a7b12ff5caa5d799d4e248f4d4abf9f93c718))
+* fuller FollowWrapper signature (27907) ([ab5c4dc](https://github.com/alandtse/skyrim_vr_address_library/commit/ab5c4dc0f3737756c6ab50ec1c8e28f7c937f035)), closes [#116](https://github.com/alandtse/skyrim_vr_address_library/issues/116) [#119](https://github.com/alandtse/skyrim_vr_address_library/issues/119)
+
+# [0.216.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.215.0...v0.216.0) (2026-05-25)
+
+
+### Features
+
+* add BGSProcedureFollow + path builder ([#119](https://github.com/alandtse/skyrim_vr_address_library/issues/119)) ([e0eb4f4](https://github.com/alandtse/skyrim_vr_address_library/commit/e0eb4f406aeb53d50b94967899dc8cac1d828fe0))
+
+# [0.215.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.214.0...v0.215.0) (2026-05-25)
+
+
+### Features
+
+* add UpdateWindVectorForBSWindModifier ([#118](https://github.com/alandtse/skyrim_vr_address_library/issues/118)) ([7bac81b](https://github.com/alandtse/skyrim_vr_address_library/commit/7bac81b134163e1ae654b8ac1a58c5caa164b334))
+
+# [0.214.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.213.0...v0.214.0) (2026-05-17)
+
+
+### Features
+
+* add LODWater functions ([e777d81](https://github.com/alandtse/skyrim_vr_address_library/commit/e777d810dba7015f79eb2d40bdd2ff63d79bf748))
+
+# [0.213.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.212.0...v0.213.0) (2026-05-02)
+
+
+### Features
+
+* add hkpAabbPhantom/hkpShapePhantom functions ([ef38466](https://github.com/alandtse/skyrim_vr_address_library/commit/ef38466fc0d6ff0680b8036a1958a242f7857f28))
+
+# [0.212.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.211.0...v0.212.0) (2026-05-02)
+
+
+### Features
+
+* add BSGraphics::TriShape::Release ([174c882](https://github.com/alandtse/skyrim_vr_address_library/commit/174c88273a10111bf628eb2db5df94039fc23452))
+
+# [0.211.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.210.0...v0.211.0) (2026-04-13)
+
+
+### Features
+
+* add IsPlayerInRegion ([b7017dc](https://github.com/alandtse/skyrim_vr_address_library/commit/b7017dc042390c2b7a906bce706196b25e634c8d))
+
+# [0.210.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.209.0...v0.210.0) (2026-04-09)
+
+
+### Features
+
+* add NGIO 1.6.3 ([#117](https://github.com/alandtse/skyrim_vr_address_library/issues/117)) ([81b5a8b](https://github.com/alandtse/skyrim_vr_address_library/commit/81b5a8b4b676f0da9c6ec36719046aa337335a96))
+
 # [0.209.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.208.0...v0.209.0) (2026-04-07)
 
 
